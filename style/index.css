@@ -1,0 +1,24 @@
+.img1 {
+    width: 3cm;
+    height: 3cm;
+}
+.header {
+    height: 5cm;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    left: 10cm;
+    right: 0;
+    color: grey;
+  }
+  .footer{
+      color: grey;
+      position: static;
+      top: auto;
+      left: 0cm;
+      right: 0cm;
+
+  }
